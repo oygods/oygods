@@ -1,4 +1,4 @@
-### EBem Vindo! :) 👋
+### Bem Vindo! :) 👋
 
 -  Atualmente estudando HTML, CSS e JavaScript!
 
