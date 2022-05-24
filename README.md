@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Html, Css**
+- 💬 Ask me about **HTML, CSS**
 
 - 📫 How to reach me **lucas.luca2ft@gmail.com**
 
