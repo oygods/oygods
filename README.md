@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oygods&label=Profile%20views&color=1e00ff&style=flat" alt="oygods" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **HTML, CSS**
 
