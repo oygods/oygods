@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Godoy</h1>
-<h3 align="center">A Front-End Developer!</h3>
+<h3 align="center">A Java Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oygods&label=Profile%20views&color=1e00ff&style=flat" alt="oygods" /> </p>
 
